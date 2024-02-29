@@ -2,7 +2,7 @@
 title: "Artificial Intelligence"
 collection: Supervision
 type: "Part IB"
-date: 2023 Easter term
+date: 2023
 venue: "University of Cambridge, Computer Lab"
 location: "Cambridge, UK"
 ---
