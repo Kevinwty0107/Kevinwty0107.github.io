@@ -4,7 +4,7 @@ collection: Supervision
 type: "Part IB"
 permalink: /teaching/AI
 venue: "University of Cambridge, Computer Lab"
-date: 2023
+date: 2023-04-01
 location: "Cambridge, United Kingdom"
 ---
 
