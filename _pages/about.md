@@ -11,24 +11,17 @@ redirect_from:
 
 I am a third-year PhD Student at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk/), [University of Cambridge](https://www.cam.ac.uk/). My research interests are deeply rooted in Reinforcement Learning, Machine Learning, Machine Learning Systems, and the enhancement of database systems through machine learning techniques. I have the privilege of being advised by [Dr. Eiko Yoneki](https://www.cl.cam.ac.uk/~ey204/) from the System Research Group at the [Computer Lab](https://www.cl.cam.ac.uk/directions/), where we aim to push the boundaries of our field.
 
-Prior to my current studies, I completed my Bachelor's Degree in Physics at Peking University, Beijing, China, where I graduated with honors and a minor in math During my tenure there, I was honored with the **Excellent Graduate Student Award** from the School of Physics and received recognition for my **Excellent Graduation Thesis**. My engagement in the academic community was further acknowledged through awards like the **Special Award at the 5th Youth Physical Tournament**, underscoring my dedication and achievement in the field. This period of academic excellence was supported by a full scholarship **Third Prize in the Freshman Scholarship**, a testament to my commitment and performance. Following my undergraduate studies, I pursued a Master's Degree in Engineering at Johns Hopkins University, Baltimore, MD, USA, where I graduated as the top 1 student of my class.
+Prior to my current studies, I completed my Bachelor's Degree in Physics at Peking University, Beijing, China, where I graduated with honors and a minor in math. During my tenure there, I was honored with the **Excellent Graduate Student Award** from the School of Physics and received recognition for my **Excellent Graduation Thesis**. My engagement in the academic community was further acknowledged through awards like the **Special Award at the 5th Youth Physical Tournament**, underscoring my dedication and achievement in the field. This period of academic excellence was supported by the full fresher scholarship, a testament to my commitment and performance. Following my undergraduate studies, I pursued a Master's Degree in Engineering at Johns Hopkins University, Baltimore, MD, USA, where I graduated as the top 1 student in my class.
 
-I am always keen on collaborations and any interesting research opportunities. I am also excited in working on those cutting-edge researches in Industries.
+I am always keen on collaborations and any interesting research opportunities. I am also excited to work on cutting-edge research in Industries. Please feel free to contact me via Email:
+
 **Email:** [Taiyi.Wang@cl.cam.ac.uk](mailto:Taiyi.Wang@cl.cam.ac.uk)
 
 
-#### Interests and Activities
+# Interests and Activities
 
-Beyond academia, I engage in a variety of interests and activities that reflect my passion for community and personal growth:
+Beyond my academic pursuits, I have a wide range of interests that highlight my commitment to personal growth and community involvement. My passion for sports is evident in my role as **the Captain of the Girton College Men 1st Tennis Team** at the University of Cambridge, a position I've held since March 2022. This leadership role in sports is complemented by my pursuit of professional development in the field; I am currently working towards obtaining a **PTR Level 1** tennis coaching certification. Additionally, my enthusiasm for outdoor activities extends to skiing, where I am advancing my skills through the **CASI Level 2** coaching certification. These endeavors reflect not only my love for sports but also my dedication to enhancing my coaching and leadership abilities in these areas.
 
-- **Captain of Girton College 1st Tennis Team**, University of Cambridge  
-  March 2022 – Present
+My engagement with the community and broader societal contributions are deeply important to me. Since July 2015, I have been involved in **long-term charitable activities**, focusing on funding education for children in impoverished areas. This initiative stems from my belief in the transformative power of education and my commitment to making a positive impact on the lives of those less fortunate. Furthermore, my leadership and organizational skills were showcased during my time as **the Director of the Debating Center** at Peking University from March 2017 to March 2018, and as a **Co-organizer** for the Students' International Communication Association (SICA) at Peking University between July 2016 and November 2016. These roles not only allowed me to contribute to the academic and personal development of my peers but also to foster international dialogue and understanding, underscoring my dedication to contributing positively to my community and beyond.
 
-- **Long-term Charitable Activities**: Funding education for children in impoverished areas  
-  July 2015 – Present
-
-- **Director of Debating Center**, Peking University  
-  March 2017 – March 2018
-
-- **Co-organizer**, Students' International Communication Association (SICA), Peking University  
-  July 2016 – November 2016
+I also co-founded our Startup with Dr.Borong Hu. You can check details here [Powersense Ltd.](https://kevinwty0107.github.io/portfolio/).
