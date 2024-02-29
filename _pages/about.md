@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am a third-year PhD Student from the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk/), [University of Cambridge](https://www.cam.ac.uk/). My research interest includes Reinforcement Learning, Machine Learning, Machine Learning System, Machine-learning Enhanced Database Systems.
+
+I am very fortunate to be advised by [Dr.Eiko Yoneki](https://www.cl.cam.ac.uk/~ey204/) of System Research Group from [Computer Lab](https://www.cl.cam.ac.uk/directions/),University of Cambridge. Before Cambridge, I finished my Bachelor's Degree at Peking University, Beijing, China, graduated with honor degrees and minored in math. Then I obtained my Master Degree of Engineering at Johns Hopkins University, Baltimore, MD, USA.
