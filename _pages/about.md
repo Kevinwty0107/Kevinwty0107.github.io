@@ -25,7 +25,7 @@ Beyond my academic pursuits, I have a wide range of interests that highlight my 
 ## Tennis and Ski
 My passion for sports is evident in my role as **the Captain of the Girton College Men 1st Tennis Team** at the University of Cambridge, a position I've held since March 2022. This leadership role in sports is complemented by my pursuit of professional development in the field; I am currently working towards obtaining a **PTR Level 1** tennis coaching certification. My enthusiasm for outdoor activities extends to skiing, where I am advancing my skills through the **CASI Level 2** coaching certification. These endeavors reflect not only my love for sports but also my dedication to enhancing my coaching and leadership abilities in these areas.
 
-![ski_png](https://github.com/Kevinwty0107/Kevinwty0107.github.io/blob/master/images/ski.png)
+![ski_png](https://github.com/Kevinwty0107/Kevinwty0107.github.io/raw/master/images/ski.png)
 
 
 
