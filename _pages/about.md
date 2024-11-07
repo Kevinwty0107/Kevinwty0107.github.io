@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: archive
 title: "About me"
 excerpt: "About me"
 author_profile: true
@@ -7,6 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 
 I am a PhD Student at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk/), [University of Cambridge](https://www.cam.ac.uk/). My research interests are deeply rooted in Reinforcement Learning, Machine Learning, Machine Learning Systems, and the enhancement of database systems through machine learning techniques. I have the privilege of being advised by [Dr. Eiko Yoneki](https://www.cl.cam.ac.uk/~ey204/) from the System Research Group at the [Computer Lab](https://www.cl.cam.ac.uk/directions/), where we aim to push the boundaries of our field. 
 
