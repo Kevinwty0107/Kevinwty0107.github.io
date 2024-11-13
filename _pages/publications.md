@@ -11,7 +11,7 @@ author_profile: true
 
 [1]. Taiyi Wang, Zhihao Wu, Jianehng Liu, et al. “DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agents.” NeurIPS 2024 Workshop on Fine-Tuning in Modern Machine Learning: Principles and Scalability.
 
-[2]. Taiyi Wang and Jianheng Liu and Bryan Lee and Zhihao Wu and Yu Wu. “OCMDP: Observation-Constrained Markov Decision Process”, under review
+[2]. Taiyi Wang, Jianheng Liu, Bryan Lee, Zhihao Wu, Yu Wu. “OCMDP: Observation-Constrained Markov Decision Process”, under review
 
 [3]. Taiyi Wang, Wenxuan Li, Eiko Yoneki. “HiBO: Hierarchical Bayesian Optimization via Adaptive Search Space Partitioning”, under review
 
