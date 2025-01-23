@@ -11,7 +11,7 @@ author_profile: true
 
 [1]. Taiyi Wang, Zhihao Wu, Jianehng Liu, et al. “DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agents”, The Thirteenth International Conference on Learning Representations (ICLR 2025).
 
-[2]. Taiyi Wang, Liang Liang, Guang Yang, Thomas Heinis and Eiko Yoneki. “A New Paradigm in Tuning Learned Indexes: A Reinforcement Learning-Enhanced Approach”, under Review
+[2]. Taiyi Wang, Liang Liang, Guang Yang, Thomas Heinis and Eiko Yoneki. “A New Paradigm in Tuning Learned Indexes: A Reinforcement Learning-Enhanced Approach”, under review
 
 [3]. Taiyi Wang, Jianheng Liu, Bryan Lee, Zhihao Wu, Yu Wu. “OCMDP: Observation-Constrained Markov Decision Process”, under review
 
@@ -21,9 +21,9 @@ author_profile: true
 
 [6]. Taiyi Wang, Eiko Yoneki. “Enhancing Generalization through Task Vector Fusion in Deep Reinforcement Learning for Database Optimization”, EuroSys, 2024 (Poster)
 
-[7]. George-Octavian Bărbulescu, Taiyi Wang, Zak Singh and Eiko Yoneki. “Learned Graph Rewriting with Equality Saturation: A New Paradigm in Relational Query Rewrite and Beyond”, Under Review
+[7]. George-Octavian Bărbulescu, Taiyi Wang, Zak Singh and Eiko Yoneki. “Learned Graph Rewriting with Equality Saturation: A New Paradigm in Relational Query Rewrite and Beyond”, under review
 
-[8]. Ali Hadian, Behzad Ghaffari, Taiyi Wang and Thomas Heinis. “COAX: Correlation-Aware Indexing on Multidimensional Data with Soft Functional Dependencies", DBML workshop of the 39th IEEE International Conference on Data Engineering (ICDE), 2023
+[8]. Ali Hadian, Behzad Ghaffari, Taiyi Wang and Thomas Heinis. “COAX: Correlation-Aware Indexing on Multidimensional Data with Soft Functional Dependencies", DBML workshop of the 39th IEEE International Conference on Data Engineering (DBML@ICDE), 2023
 
 [9]. Hao Sun, Taiyi Wang. “Toward Causal-Aware RL: State-Wise Action-Refined Temporal Difference.” NeurIPS 2022 Workshop DeepRL, 2022
 
