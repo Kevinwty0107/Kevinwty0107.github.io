@@ -9,19 +9,19 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-[1]. Taiyi Wang, Zhihao Wu, Jianehng Liu, et al. “DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agents.” ICLR 2025, the Thirteenth International Conference on Learning Representations.
+[1]. Taiyi Wang, Zhihao Wu, Jianehng Liu, et al. “DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agents”, The Thirteenth International Conference on Learning Representations (ICLR 2025).
 
-[2]. Taiyi Wang, Jianheng Liu, Bryan Lee, Zhihao Wu, Yu Wu. “OCMDP: Observation-Constrained Markov Decision Process”, under review
+[2]. Taiyi Wang, Liang Liang, Guang Yang, Thomas Heinis and Eiko Yoneki. “A New Paradigm in Tuning Learned Indexes: A Reinforcement Learning-Enhanced Approach”, under Review
 
-[3]. Taiyi Wang, Wenxuan Li, Eiko Yoneki. “HiBO: Hierarchical Bayesian Optimization via Adaptive Search Space Partitioning”, under review
+[3]. Taiyi Wang, Jianheng Liu, Bryan Lee, Zhihao Wu, Yu Wu. “OCMDP: Observation-Constrained Markov Decision Process”, under review
 
-[4]. Taiyi Wang, Eiko Yoneki. “IA2: Leveraging Instance-Aware Index Advisor with Reinforcement Learning for Diverse Workloads”, the 4th Workshop on Machine Learning and Systems of EuroSys, 2024 (EuroMLSys’24)
+[4]. Wenxun Li(\*), Taiyi Wang(\*) Eiko Yoneki. “HiBO: Hierarchical Bayesian Optimization via Adaptive Search Space Partitioning”, under review
 
-[5]. Taiyi Wang, Eiko Yoneki. “Enhancing Generalization through Task Vector Fusion in Deep Reinforcement Learning for Database Optimization”, EuroSys, 2024 (Poster)
+[5]. Taiyi Wang, Eiko Yoneki. “IA2: Leveraging Instance-Aware Index Advisor with Reinforcement Learning for Diverse Workloads”, the 4th Workshop on Machine Learning and Systems of EuroSys, 2024 (EuroMLSys’24)
 
-[6]. Taiyi Wang, George-Octavian Bărbulescu, Zak Singh and Eiko Yoneki. “Learned Graph Rewriting with Equality Saturation: A New Paradigm in Relational Query Rewrite and Beyond”, Under Review
+[6]. Taiyi Wang, Eiko Yoneki. “Enhancing Generalization through Task Vector Fusion in Deep Reinforcement Learning for Database Optimization”, EuroSys, 2024 (Poster)
 
-[7]. Taiyi Wang, Guang Yang, Liang Liang, Thomas Heinis and Eiko Yoneki. “LITune: Tuning Learned Index Using Deep Reinforcement Learning”, Under Review
+[7]. George-Octavian Bărbulescu, Taiyi Wang, Zak Singh and Eiko Yoneki. “Learned Graph Rewriting with Equality Saturation: A New Paradigm in Relational Query Rewrite and Beyond”, Under Review
 
 [8]. Ali Hadian, Behzad Ghaffari, Taiyi Wang and Thomas Heinis. “COAX: Correlation-Aware Indexing on Multidimensional Data with Soft Functional Dependencies", DBML workshop of the 39th IEEE International Conference on Data Engineering (ICDE), 2023
 
