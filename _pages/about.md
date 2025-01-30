@@ -31,7 +31,7 @@ I am always keen on collaborations and any interesting research opportunities. I
 
 **DistRL: A distributed and scalable RL fine-tuning framework for On-Device MLLM Agents**  
 Taiyi Wang, James Wang, Some Other Name, John Doe  
-*International Conference on Learning Representations (ICLR) 2025* <span class="badge">Spotlight</span>
+*International Conference on Learning Representations (ICLR) 2025* <span class="badge">Poster</span>
 
 A novel distributed reinforcement learning framework for fine-tuning mobile language models.  
 [[Paper]](https://arxiv.org/abs/2410.14803) [[Code]](https://ai-agents-2030.github.io/DistRL/) [[Blog]](#)
