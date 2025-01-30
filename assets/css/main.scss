@@ -39,3 +39,34 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+---
+---
+
+@import "{{ site.theme }}";
+
+.badge {
+  background: #4caf50;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.8em;
+  margin-left: 8px;
+}
+
+.publication-links {
+  margin-top: 10px;
+}
+
+.publication-links a {
+  background: #f0f0f0;
+  padding: 3px 8px;
+  border-radius: 4px;
+  margin-right: 8px;
+  color: #0366d6;
+  text-decoration: none;
+}
+
+.publication-links a:hover {
+  background: #e0e0e0;
+}
