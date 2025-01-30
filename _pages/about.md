@@ -18,15 +18,15 @@ I am always keen on collaborations and any interesting research opportunities. I
 
 **Email:** [Taiyi.Wang@cl.cam.ac.uk](mailto:Taiyi.Wang@cl.cam.ac.uk)
 
----
+<hr style="border-top: 2px solid #bbb;">
 
 # News! 🚀
 
-  ### 🌏 *ICLR 2025* DistRL： A distributed and scalable RL fine-tuning framework for On-Device MLLM Agents
+### 🌏 *ICLR 2025* DistRL： A distributed and scalable RL fine-tuning framework for On-Device MLLM Agents
 
   * I am very pleased to announce our latest work [DistRL](https://arxiv.org/abs/2410.14803) was accepted by ICLR 2025. We also released code and demos, feel free to check our project website [here](https://ai-agents-2030.github.io/DistRL/).
 
----
+<hr style="border-top: 2px solid #bbb;">
 
 # Selected Publications 📚
 
@@ -75,7 +75,7 @@ I am always keen on collaborations and any interesting research opportunities. I
   </div>
 </div>
 
----
+<hr style="border-top: 2px solid #bbb;">
 
 # Interests and Activities
 
