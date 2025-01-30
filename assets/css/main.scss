@@ -43,9 +43,46 @@
 ---
 ---
 
+---
+---
+
 @import "{{ site.theme }}";
 
-.badge {
+.publication-card {
+  display: flex;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.pub-thumbnail {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.pub-content {
+  flex: 1;
+}
+
+.pub-content h3 {
+  margin: 0 0 0.5rem 0;
+}
+
+.authors {
+  color: #555;
+  margin: 0.5rem 0;
+}
+
+.venue {
+  margin: 0.5rem 0;
+}
+
+.spotlight-badge {
   background: #4caf50;
   color: white;
   padding: 2px 8px;
@@ -54,11 +91,11 @@
   margin-left: 8px;
 }
 
-.publication-links {
-  margin-top: 10px;
+.pub-links {
+  margin-top: 1rem;
 }
 
-.publication-links a {
+.pub-links a {
   background: #f0f0f0;
   padding: 3px 8px;
   border-radius: 4px;
@@ -67,6 +104,6 @@
   text-decoration: none;
 }
 
-.publication-links a:hover {
+.pub-links a:hover {
   background: #e0e0e0;
 }
