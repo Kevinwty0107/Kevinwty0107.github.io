@@ -37,7 +37,7 @@ author_profile: true
 
 [6]. Taiyi Wang, Jiahao Shi. "Solving Maximal Stable Set problem via Deep Reinforcement Learning." International Conference on Communication Technology, Computational Engineering and Artificial Intelligence (ICAART), 2020
 
-### MLSys, LLM training, and serving
+### MLSys, LLM Training, and Serving
 
 [1]. Youhe Jiang(\*), Fangcheng Fu(\*), Taiyi Wang(\*), Eiko Yoneki. "LiveServe: Efficient LLM Serving via Workload-aware Scheduling and Workload-adaptive Switching", under review
 
