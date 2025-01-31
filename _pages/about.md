@@ -26,6 +26,10 @@ I am always keen on collaborations and any interesting research opportunities. I
 
   * I am very pleased to announce our latest work [DistRL](https://arxiv.org/abs/2410.14803) was accepted by ICLR 2025. We also released code and demos, feel free to check our project website [here](https://ai-agents-2030.github.io/DistRL/).
 
+### 🌏 *SIGMOD 2025* A New Paradigm in Tuning Learned Indexes: A Reinforcement Learning-Enhanced Approach
+
+  * Exciting! Our latest work LITune was accepted by SIGMOD 2025. Feel free to check our project website [here]().
+
 <hr style="border-top: 2px solid #bbb;">
 
 # Selected Publications 📚
@@ -71,6 +75,52 @@ I am always keen on collaborations and any interesting research opportunities. I
       <a href="https://ai-agents-2030.github.io/DistRL/static/documents/DistRL_arxiv.pdf" style="text-decoration:none; background:#f4f4ff; padding:6px 12px; border-radius:4px; font-size:14px; color:#333; margin-right:8px;">Paper</a>
       <a href="https://github.com/DistRL-lab/distrl-open" style="text-decoration:none; background:#f4f4ff; padding:6px 12px; border-radius:4px; font-size:14px; color:#333; margin-right:8px;">Code</a>
       <a href="https://ai-agents-2030.github.io/DistRL/" style="text-decoration:none; background:#f4f4ff; padding:6px 12px; border-radius:4px; font-size:14px; color:#333;">Blog</a>
+    </p>
+  </div>
+</div>
+
+
+<div style="
+  display: flex;
+  align-items: flex-start;
+  background-color: #fff;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1); 
+">
+  <!-- Left side: thumbnail -->
+  <div style="width:128px; height:128px; flex-shrink: 0; background: #f0f0f0; border-radius: 4px; margin-right: 16px;">
+    <img src="/images/LITune.png" alt="LITune Paper thumbnail" style="width: 100%; height: 100%; object-fit: cover;" />
+  </div>
+
+  <!-- Right side: publication text/info -->
+  <div style="flex: 1;">
+    <!-- Title -->
+    <h3 style="margin-top:0; margin-bottom:6px;">
+      A New Paradigm in Tuning Learned Indexes: A Reinforcement Learning-Enhanced Approach
+    </h3>
+    <!-- Authors -->
+    <p style="margin:0; font-size: 16px; color: #555;">
+      Taiyi Wang, Liang Liang, Anson Yang, Thomas Heinis, Eiko Yoneki
+    </p>
+    <!-- Venue + Poster badge -->
+    <p style="margin:4px 0 12px; color: #777;">
+      <em> International Conference on Management of Data (SIGMOD) 2025</em>
+      <span style="display:inline-block; background-color:#e7f6e5; color:#2f6d2f; border-radius:4px; padding:2px 6px; margin-left:6px; font-size:0.85em;">
+        Poster
+      </span>
+    </p>
+    <!-- Description -->
+    <p style="margin:0 0 12px; font-size: 15px; color: #555;">
+      LITune: A novel and reliable tuning framework for Learned Index.
+    </p>
+    <!-- Links -->
+    <p style="margin:0;">
+      <a href="#" style="text-decoration:none; background:#f4f4ff; padding:6px 12px; border-radius:4px; font-size:14px; color:#333; margin-right:8px;">Paper</a>
+      <a href="#" style="text-decoration:none; background:#f4f4ff; padding:6px 12px; border-radius:4px; font-size:14px; color:#333; margin-right:8px;">Code(Coming Soon)</a>
+      <a href="#" style="text-decoration:none; background:#f4f4ff; padding:6px 12px; border-radius:4px; font-size:14px; color:#333;">Blog</a>
     </p>
   </div>
 </div>
