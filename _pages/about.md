@@ -22,13 +22,13 @@ I am always keen on collaborations and any interesting research opportunities. I
 
 # News! 🚀
 
-### 🌏 *ICLR 2025* DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agents
+### 📍 *[SIGMOD 2025]* - A New Paradigm in Tuning Learned Indexes: A Reinforcement Learning-Enhanced Approach
+
+  * Exciting! Our latest work LITune was accepted by SIGMOD 2025. Feel free to check our project website [here](). (Coming Soon...)
+
+### 📍 *[ICLR 2025]* - DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agents
 
   * I am very pleased to announce our latest work [DistRL](https://arxiv.org/abs/2410.14803) was accepted by ICLR 2025. We also released code and demos, feel free to check our project website [here](https://ai-agents-2030.github.io/DistRL/).
-
-### 🌏 *SIGMOD 2025* A New Paradigm in Tuning Learned Indexes: A Reinforcement Learning-Enhanced Approach
-
-  * Exciting! Our latest work LITune was accepted by SIGMOD 2025. Feel free to check our project website [here]().
 
 <hr style="border-top: 2px solid #bbb;">
 
