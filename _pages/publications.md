@@ -9,9 +9,9 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-[1]. Taiyi Wang, Zhihao Wu, Jianehng Liu, et al. “DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agents”, The Thirteenth International Conference on Learning Representations (ICLR 2025).
+[1]. Taiyi Wang, Zhihao Wu, Jianehng Liu, et al. “DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agents”, the Thirteenth International Conference on Learning Representations (ICLR 2025).
 
-[2]. Taiyi Wang, Liang Liang, Guang Yang, Thomas Heinis and Eiko Yoneki. “A New Paradigm in Tuning Learned Indexes: A Reinforcement Learning-Enhanced Approach”, under review
+[2]. Taiyi Wang, Liang Liang, Guang Yang, Thomas Heinis and Eiko Yoneki. “A New Paradigm in Tuning Learned Indexes: A Reinforcement Learning-Enhanced Approach”, the International Conference on Management of Data (SIGMOD 2025)
 
 [3]. Taiyi Wang, Jianheng Liu, Bryan Lee, Zhihao Wu, Yu Wu. “OCMDP: Observation-Constrained Markov Decision Process”, under review
 
