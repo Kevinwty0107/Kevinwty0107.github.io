@@ -105,11 +105,11 @@ I am always keen on collaborations and any interesting research opportunities. I
     <p style="margin:0; font-size: 16px; color: #555;">
       Taiyi Wang, Liang Liang, Anson Yang, Thomas Heinis, Eiko Yoneki
     </p>
-    <!-- Venue + Poster badge -->
+    <!-- Venue + Oral badge -->
     <p style="margin:4px 0 12px; color: #777;">
       <em> International Conference on Management of Data (SIGMOD) 2025</em>
       <span style="display:inline-block; background-color:#e7f6e5; color:#2f6d2f; border-radius:4px; padding:2px 6px; margin-left:6px; font-size:0.85em;">
-        Poster
+        Oral
       </span>
     </p>
     <!-- Description -->
@@ -119,7 +119,7 @@ I am always keen on collaborations and any interesting research opportunities. I
     <!-- Links -->
     <p style="margin:0;">
       <a href="#" style="text-decoration:none; background:#f4f4ff; padding:6px 12px; border-radius:4px; font-size:14px; color:#333; margin-right:8px;">Paper</a>
-      <a href="#" style="text-decoration:none; background:#f4f4ff; padding:6px 12px; border-radius:4px; font-size:14px; color:#333; margin-right:8px;">Code(Coming Soon)</a>
+      <a href="#" style="text-decoration:none; background:#f4f4ff; padding:6px 12px; border-radius:4px; font-size:14px; color:#333; margin-right:8px;">Code (Coming Soon)</a>
       <a href="#" style="text-decoration:none; background:#f4f4ff; padding:6px 12px; border-radius:4px; font-size:14px; color:#333;">Blog</a>
     </p>
   </div>
