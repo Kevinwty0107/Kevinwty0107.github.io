@@ -23,7 +23,7 @@ author_profile: true
 
 [6]. Ali Hadian, Behzad Ghaffari, Taiyi Wang and Thomas Heinis. “COAX: Correlation-Aware Indexing on Multidimensional Data with Soft Functional Dependencies", DBML workshop of the 39th IEEE International Conference on Data Engineering (DBML@ICDE), 2023
 
-### Reinforcement Learning, RLHF
+### Reinforcement Learning, RL X LLM
 
 [1]. Taiyi Wang, Zhihao Wu, Jianehng Liu, et al. “DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agents”, the Thirteenth International Conference on Learning Representations (ICLR 2025).
 
