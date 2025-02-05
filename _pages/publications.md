@@ -49,7 +49,7 @@ author_profile: true
 
 [2]. Taiyi Wang, Yajun Fang, and Berthold KP Horn. "Why do we need bilateral control?-in view of energy consumption." 2018 4th International Conference on Universal Village (UV). IEEE, 2018.
 
-[3]. Taiyi Wang, Fu, Zuntao. "Regional Studies on low-frequency variations in DTR." Graduation thesis, Department of Atmospheric and Oceanic Sciences, School of Physics, Peking University, 2019
+[3]. Taiyi Wang, Zuntao Fu. "Regional Studies on low-frequency variations in DTR." Graduation thesis, Department of Atmospheric and Oceanic Sciences, School of Physics, Peking University, 2019
 
 
 
