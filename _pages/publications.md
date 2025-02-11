@@ -11,13 +11,13 @@ author_profile: true
 
 ### Machine Learning for Database and Storage, Indexing
 
-[1]. Taiyi Wang, Liang Liang, Guang Yang, Thomas Heinis and Eiko Yoneki. "A New Paradigm in Tuning Learned Indexes: A Reinforcement Learning-Enhanced Approach", the International Conference on Management of Data (SIGMOD 2025)
+[1]. Taiyi Wang, Liang Liang, Guang Yang, Thomas Heinis and Eiko Yoneki. "A New Paradigm in Tuning Learned Indexes: A Reinforcement Learning-Enhanced Approach", the International Conference on Management of Data (SIGMOD), 2025
 
 [2]. Taiyi Wang, Zakir Singh, Eiko Yoneki. "AutoIndexer: A Reinforcement Learning-Enhanced Index Advisor Towards Scaling Workloads", under review
 
-[3]. Taiyi Wang, Eiko Yoneki. "IA2: Leveraging Instance-Aware Index Advisor with Reinforcement Learning for Diverse Workloads", the 4th Workshop on Machine Learning and Systems of EuroSys, 2024 (EuroMLSys’24)
+[3]. Taiyi Wang, Eiko Yoneki. "IA2: Leveraging Instance-Aware Index Advisor with Reinforcement Learning for Diverse Workloads", the 4th Workshop on Machine Learning and Systems of European Conference on Computer Systems (EuroMLSys), 2024 
 
-[4]. Taiyi Wang, Eiko Yoneki. "Enhancing Generalization through Task Vector Fusion in Deep Reinforcement Learning for Database Optimization", EuroSys, 2024 (Poster)
+[4]. Taiyi Wang, Eiko Yoneki. "Enhancing Generalization through Task Vector Fusion in Deep Reinforcement Learning for Database Optimization", European Conference on Computer Systems (EuroSys), 2024 (Poster)
 
 [5]. George-Octavian Bărbulescu, Taiyi Wang, Zak Singh and Eiko Yoneki. "Learned Graph Rewriting with Equality Saturation: A New Paradigm in Relational Query Rewrite and Beyond", under review
 
@@ -25,7 +25,7 @@ author_profile: true
 
 ### Reinforcement Learning, RL x LLM
 
-[1]. Taiyi Wang, Zhihao Wu, Jianehng Liu, et al. "DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agents", the Thirteenth International Conference on Learning Representations (ICLR 2025).
+[1]. Taiyi Wang, Zhihao Wu, Jianehng Liu, et al. "DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agents", the Thirteenth International Conference on Learning Representations (ICLR), 2025
 
 [2]. Taiyi Wang, Jianheng Liu, Bryan Lee, Zhihao Wu, Yu Wu. "OCMDP: Observation-Constrained Markov Decision Process", under review
 
@@ -41,13 +41,13 @@ author_profile: true
 
 [1]. Youhe Jiang(\*), Fangcheng Fu(\*), Taiyi Wang(\*), Eiko Yoneki. "LiveServe: Efficient LLM Serving via Workload-aware Scheduling and Workload-adaptive Switching", under review
 
-[2]. Youhe Jiang, Fangcheng Fu, Xiaozhe Yao, Taiyi Wang, Bin CUI, Ana Klimovic, Eiko Yoneki. "ThunderServe: High-performance and Cost-efficient LLM Serving in Cloud Environments", under review
+[2]. Youhe Jiang, Fangcheng Fu, Xiaozhe Yao, Taiyi Wang, Bin CUI, Ana Klimovic, Eiko Yoneki. "ThunderServe: High-performance and Cost-efficient LLM Serving in Cloud Environments", The Eighth Annual Conference on Machine Learning and Systems (MLSys), 2025
 
 ### Others
 
 [1]. Wenxun Li(\*), Taiyi Wang(\*) Eiko Yoneki. "HiBO: Hierarchical Bayesian Optimization via Adaptive Search Space Partitioning", under review
 
-[2]. Taiyi Wang, Yajun Fang, and Berthold KP Horn. "Why do we need bilateral control?-in view of energy consumption", 2018 4th International Conference on Universal Village (UV). IEEE, 2018.
+[2]. Taiyi Wang, Yajun Fang, and Berthold KP Horn. "Why do we need bilateral control?-in view of energy consumption", 2018 4th International Conference on Universal Village (UV). IEEE, 2018
 
 [3]. Taiyi Wang, Zuntao Fu. "Regional Studies on low-frequency variations in DTR", Graduation thesis, Department of Atmospheric and Oceanic Sciences, School of Physics, Peking University, 2019
 
