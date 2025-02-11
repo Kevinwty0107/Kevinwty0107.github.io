@@ -22,6 +22,10 @@ I am always keen on collaborations and any interesting research opportunities. I
 
 # News! 🚀
 
+### 📍 (2025.02) *[MLSys 2025]* - ThunderServe: High-performance and Cost-efficient LLM Serving in Cloud Environments
+
+  * Our recent work ThunderServe was accepted by MLSys 2025. Feel free to check our paper [here](). (Coming Soon...)
+
 ### 📍 (2025.01) *[SIGMOD 2025]* - A New Paradigm in Tuning Learned Indexes: A Reinforcement Learning-Enhanced Approach
 
   * Exciting! Our latest work LITune was accepted by SIGMOD 2025. Feel free to check our project website [here](). (Coming Soon...)
