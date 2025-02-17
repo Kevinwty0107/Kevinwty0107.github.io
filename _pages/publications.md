@@ -47,7 +47,7 @@ author_profile: true
 
 [1]. Wenxun Li(\*), Taiyi Wang(\*) Eiko Yoneki. "HiBO: Hierarchical Bayesian Optimization via Adaptive Search Space Partitioning", under review
 
-[2]. Taiyi Wang, Yajun Fang, and Berthold KP Horn. "Why do we need bilateral control?-in view of energy consumption", 2018 4th International Conference on Universal Village (IEEE UV'18), 2018
+[2]. Taiyi Wang, Yajun Fang, and Berthold KP Horn. "Why do we need bilateral control?-in view of energy consumption", 2018 4th International Conference on Universal Village (IEEE UV), 2018
 
 [3]. Taiyi Wang, Zuntao Fu. "Regional Studies on low-frequency variations in DTR", Graduation thesis, Department of Atmospheric and Oceanic Sciences, School of Physics, Peking University, 2019
 
