@@ -28,7 +28,7 @@ I am always keen on collaborations and any interesting research opportunities. I
 
 ### 📍 (2025.01) *[SIGMOD 2025]* - A New Paradigm in Tuning Learned Indexes: A Reinforcement Learning-Enhanced Approach
 
-  * Exciting! Our latest work LITune was accepted by SIGMOD 2025. Feel free to check our [paper](https://arxiv.org/abs/2502.05001) and website [here](). (Coming Soon...)
+  * Exciting! Our latest work LITune was accepted by SIGMOD 2025. Feel free to check our [paper](https://arxiv.org/abs/2502.05001) and website [here](https://kevinwty0107.github.io/LITune_Open/). (Coming Soon...)
 
 ### 📍 (2025.01) *[ICLR 2025]* - DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agents
 
@@ -122,9 +122,9 @@ I am always keen on collaborations and any interesting research opportunities. I
     </p>
     <!-- Links -->
     <p style="margin:0;">
-      <a href="#" style="text-decoration:none; background:#f4f4ff; padding:6px 12px; border-radius:4px; font-size:14px; color:#333; margin-right:8px;">Paper</a>
+      <a href="https://www.arxiv.org/abs/2502.05001" style="text-decoration:none; background:#f4f4ff; padding:6px 12px; border-radius:4px; font-size:14px; color:#333; margin-right:8px;">Paper</a>
       <a href="#" style="text-decoration:none; background:#f4f4ff; padding:6px 12px; border-radius:4px; font-size:14px; color:#333; margin-right:8px;">Code (Coming Soon)</a>
-      <a href="#" style="text-decoration:none; background:#f4f4ff; padding:6px 12px; border-radius:4px; font-size:14px; color:#333;">Blog</a>
+      <a href="https://kevinwty0107.github.io/LITune_Open/" style="text-decoration:none; background:#f4f4ff; padding:6px 12px; border-radius:4px; font-size:14px; color:#333;">Blog</a>
     </p>
   </div>
 </div>
