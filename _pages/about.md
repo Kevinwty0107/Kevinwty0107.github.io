@@ -22,6 +22,10 @@ I am always keen on collaborations and any interesting research opportunities. I
 
 # News! 🚀
 
+### 📍 (2025.04) *[IJCNN 2025]* - OCMDP: Observation-Constrained Markov Decision Process
+
+  * Our recent work, OCMDP, was accepted by the International Joint Conference on Neural Networks (IJCNN) 2025. Feel free to check our paper [here](https://arxiv.org/abs/2411.07087). 
+
 ### 📍 (2025.02) *[MLSys 2025]* - ThunderServe: High-performance and Cost-efficient LLM Serving in Cloud Environments
 
   * Our recent work ThunderServe was accepted by MLSys 2025. Feel free to check our paper [here](https://arxiv.org/abs/2502.09334). 
