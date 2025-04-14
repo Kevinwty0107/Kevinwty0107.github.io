@@ -21,7 +21,7 @@ repository               : "https://kevinwty0107.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Profile.jpg"
   name             : "Taiyi Wang"
   pronouns         : # example: "she/her"  
   bio              : "Phd Student in Computer Science, Co-Founder of Powersense.Ltd"
