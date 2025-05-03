@@ -32,7 +32,8 @@ I am always keen on collaborations and any interesting research opportunities. I
 
 ### 📍 (2025.01) *[SIGMOD 2025]* - A New Paradigm in Tuning Learned Indexes: A Reinforcement Learning-Enhanced Approach
 
-  * Exciting! Our latest work LITune was accepted by SIGMOD 2025. Feel free to check our [paper](https://arxiv.org/abs/2502.05001) and website [here](https://kevinwty0107.github.io/LITune_Open/). 
+  * Exciting! Our latest work LITune was accepted by SIGMOD 2025. Feel free to check our [paper](https://arxiv.org/abs/2502.05001) and website [here](https://kevinwty0107.github.io/LITune_Open/).
+  * Awarded by SIGMOD 2025 Travel Grants
 
 ### 📍 (2025.01) *[ICLR 2025]* - DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agents
 
