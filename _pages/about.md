@@ -48,6 +48,40 @@ I am always keen to collaborate on exciting research problems and impactful indu
 
 # Selected Publications 📚
 
+
+<div style="
+  display: flex;
+  align-items: flex-start;
+  background-color: #fff;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1); 
+">
+  <div style="width:128px; height:128px; flex-shrink: 0; background: #f0f0f0; border-radius: 4px; margin-right: 16px;">
+    <img src="/images/mira.png" alt="MiRA Paper thumbnail" style="width: 100%; height: 100%; object-fit: cover;" />
+  </div>
+
+  <div style="flex: 1;">
+    <h3 style="margin-top:0; margin-bottom:6px;">
+      A Subgoal-driven Framework for Improving Long-Horizon LLM Agents
+    </h3>
+    <p style="margin:0; font-size: 16px; color: #555;">
+      Taiyi Wang, Sian Gooding, Florian Hartmann, Oriana Riva, Edward Grefenstette
+    </p>
+    <p style="margin:4px 0 12px; color: #777;">
+      <em>Google DeepMind Technical Report</em>
+    </p>
+    <p style="margin:0 0 12px; font-size: 15px; color: #555;">
+      Pushing forward the research of frontier agents on long horizontal tasks.
+    </p>
+    <p style="margin:0;">
+      <a href="https://arxiv.org/abs/2603.19685" style="text-decoration:none; background:#f4f4ff; padding:6px 12px; border-radius:4px; font-size:14px; color:#333;">Paper</a>
+    </p>
+  </div>
+</div>
+
 <div style="
   display: flex;
   align-items: flex-start;
@@ -117,71 +151,6 @@ I am always keen to collaborate on exciting research problems and impactful indu
   </div>
 </div>
 
-<div style="
-  display: flex;
-  align-items: flex-start;
-  background-color: #fff;
-  border: 1px solid #eee;
-  border-radius: 8px;
-  padding: 16px;
-  margin-bottom: 20px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1); 
-">
-  <div style="width:128px; height:128px; flex-shrink: 0; background: #f0f0f0; border-radius: 4px; margin-right: 16px;">
-  </div>
-
-  <div style="flex: 1;">
-    <h3 style="margin-top:0; margin-bottom:6px;">
-      OCMDP: Observation-Constrained Markov Decision Process
-    </h3>
-    <p style="margin:0; font-size: 16px; color: #555;">
-      Taiyi Wang, Jianheng Liu, Bryan Lee, Zhihao Wu, Yu Wu
-    </p>
-    <p style="margin:4px 0 12px; color: #777;">
-      <em>International Joint Conference on Neural Networks (IJCNN) 2025</em>
-    </p>
-    <p style="margin:0 0 12px; font-size: 15px; color: #555;">
-      A study of observation-constrained Markov decision processes.
-    </p>
-    <p style="margin:0;">
-      <a href="https://arxiv.org/abs/2411.07087" style="text-decoration:none; background:#f4f4ff; padding:6px 12px; border-radius:4px; font-size:14px; color:#333;">Paper</a>
-    </p>
-  </div>
-</div>
-
-<div style="
-  display: flex;
-  align-items: flex-start;
-  background-color: #fff;
-  border: 1px solid #eee;
-  border-radius: 8px;
-  padding: 16px;
-  margin-bottom: 20px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1); 
-">
-  <div style="width:128px; height:128px; flex-shrink: 0; background: #f0f0f0; border-radius: 4px; margin-right: 16px;">
-  </div>
-
-  <div style="flex: 1;">
-    <h3 style="margin-top:0; margin-bottom:6px;">
-      ThunderServe: High-performance and Cost-efficient LLM Serving in Cloud Environments
-    </h3>
-    <p style="margin:0; font-size: 16px; color: #555;">
-      Youhe Jiang, Fangcheng Fu, Xiaozhe Yao, Taiyi Wang, Bin Cui, Ana Klimovic, Eiko Yoneki
-    </p>
-    <p style="margin:4px 0 12px; color: #777;">
-      <em>Annual Conference on Machine Learning and Systems (MLSys) 2025</em>
-    </p>
-    <p style="margin:0 0 12px; font-size: 15px; color: #555;">
-      High-performance and cost-efficient LLM serving in cloud environments.
-    </p>
-    <p style="margin:0;">
-      <a href="https://arxiv.org/abs/2502.09334" style="text-decoration:none; background:#f4f4ff; padding:6px 12px; border-radius:4px; font-size:14px; color:#333;">Paper</a>
-    </p>
-  </div>
-</div>
-
-<hr style="border-top: 2px solid #bbb;">
 
 # Academic Service and Awards
 
