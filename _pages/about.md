@@ -60,7 +60,7 @@ I am always keen to collaborate on exciting research problems and impactful indu
   box-shadow: 0 2px 4px rgba(0,0,0,0.1); 
 ">
   <div style="width:128px; height:128px; flex-shrink: 0; background: #f0f0f0; border-radius: 4px; margin-right: 16px;">
-    <img src="/images/mira.png" alt="MiRA Paper thumbnail" style="width: 100%; height: 100%; object-fit: cover;" />
+    <img src="/images/MiRA_thumbnail.png" alt="MiRA Paper thumbnail" style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
 
   <div style="flex: 1;">
