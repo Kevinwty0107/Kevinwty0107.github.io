@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV [here](https://kevinwty0107.github.io/assets/Taiyi_Wang_Resume.pdf).
+You can download my CV [here](https://kevinwty0107.github.io/assets/Taiyi_Wang%20CV.pdf).
 
