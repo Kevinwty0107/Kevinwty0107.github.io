@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in Reinforcement Learning, LLM Agents, Scalable Machine Learning, and ML-enhanced Systems Optimization. I completed my PhD in Computer Science at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk/), [University of Cambridge](https://www.cam.ac.uk/), in January 2026. My research focuses on applying machine learning, especially reinforcement learning, to improve real systems such as databases, LLM fine-tuning pipelines, and LLM serving systems — an area I broadly describe as **ML4Sys (especially RL4Sys)**.
+I am a researcher in Reinforcement Learning, LLM Agents, Scalable Machine Learning, and ML-enhanced Systems Optimization. I completed my PhD in Computer Science at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk/), [University of Cambridge](https://www.cam.ac.uk/), My research focuses on large language models, VLA/VLM systems, and agent fine-tuning. I also have a strong background in applying machine learning—particularly reinforcement learning—to improve real-world systems such as databases, cloud services, and general storage systems. In addition, I bring solid systems and infrastructure expertise to support large-scale training and serving. I broadly describe this line of work as **MLSys (especially RLSys)**.
 
 During my PhD, I was fortunate to be advised by [Dr. Eiko Yoneki](https://www.cl.cam.ac.uk/~ey204/) and [Prof. Jon Crowcroft](https://www.cst.cam.ac.uk/people/jac22) from the Machine Learning & Systems Research Group at the [Computer Lab](https://www.cl.cam.ac.uk/directions/), where we explored the intersection of machine learning and systems with the goal of pushing the boundaries of both fields.
 
